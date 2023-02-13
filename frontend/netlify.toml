@@ -1,4 +1,0 @@
-[[redirects]]
-from ="/frontend/*"
-to = "/frontend"
-status =200
